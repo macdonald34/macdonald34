@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macdonald34
 - 👀 I’m interested in ...
-- 🌱 I’m a passionate FukkStack Developer 
+- 🌱 I’m a passionate FullStack Developer 
 - 💞️ I’m looking to collaborate on Mobile
 - 📫 How to reach me on 
 - Gmail: macdonaldmuhavi98@gmail.com
